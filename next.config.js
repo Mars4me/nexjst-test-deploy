@@ -6,7 +6,7 @@ const nextConfig = {
     path: "",
   },
   basePath: "/nexjst-test-deploy",
-  assetPrefix: "nexjst-test-deploy",
+  assetPrefix: "/nexjst-test-deploy",
   swcMinify: true,
 };
 
